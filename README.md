@@ -7,7 +7,7 @@ We then devised an algorithm to investigate the emotional context shift of words
 
 ---
 
-The weights of the XLM-R model that was fine-tuned for emotion classification on the data of [SemEval 2018 Task 1](https://aclanthology.org/S18-1001/), is available in this repository. A notebook loading is also provided. 
+The weights of the XLM-R model that was fine-tuned for emotion classification on the data of [SemEval 2018 Task 1](https://aclanthology.org/S18-1001/), is available in this repository. Notebooks to [fine-tune](XLMR_emotion_training.ipynb) and to [use the trained model to infer](xlmr_e_predict.ipynb) are provided. 
 
 ---
 
