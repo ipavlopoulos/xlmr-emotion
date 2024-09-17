@@ -1,4 +1,4 @@
-# xlmr-emotion
+# Estimating the Emotion of Disgust in Greek Parliament Records
 This is the pre-trained language model (PLM) that was used to analyse the sentiment in Greek political speech, by focusing on the most frequently occurring emotion in electoral data, the emotion of "disgust". 
 
 The study shows that emotion classification is generally tough, but high accuracy can be achieved for that particular emotion. An XLM-R model was fine-tuned and then used to classify political records of the Greek Parliament Corpus from 1989 to 2020. Using the predictions, we studied the points in time when this emotion was frequently occurring and we ranked the Greek political parties based on their estimated score. 
